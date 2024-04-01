@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NataliaKra
-- 👀 I’m interested in Data Sceince and Human Science!
-- 🌱 I’m currently learning Neural Networks
-- 💞️ I’m looking to collaborate on healthcare/psychology/biology projects
+- 👀 I’m interested in Data Sceince in Healthcare and Animation
+- 🌱 I’m currently learning Maya
+- 💞️ I’m looking to collaborate on healthcare/psychology/animation projects
 - 📫 How to reach me: nmkravchenko@gmail.com
 
 <!---
